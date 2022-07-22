@@ -1,0 +1,12 @@
+{
+  "name": "ejerciciopractico",
+  "version": "1.0.0",
+  "description": "Este es el proyecto creado para dar solución al EjercicioPractico de OpenBootcamp\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Felipe Galvis",
+  "license": "ISC"
+}
