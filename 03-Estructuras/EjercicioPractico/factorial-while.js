@@ -6,7 +6,8 @@ let i = 1;
 
 while (i <= numero) {
     resultado *= i;
+    console.log(resultado)
     i++
 }
 
-console.log(resultado);
+console.log("El factorial de 10 es igual a: " + factorial);

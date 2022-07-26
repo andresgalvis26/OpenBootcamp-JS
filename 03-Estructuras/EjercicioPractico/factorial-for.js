@@ -1,10 +1,9 @@
 // Factorial de un numero
-const dato = 10;
-let r = 1;
+let factorial = 1;
 
-for(let i = dato; i>0; i--) {
-    r *= i; 
+for(let i = 10; i > 0; i--) {
+    factorial *= i; 
+    console.log(factorial)
 }
 
-console.log(r);
-
+console.log("El factorial de 10 es igual a: " + factorial);
